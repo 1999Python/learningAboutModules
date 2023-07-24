@@ -1,8 +1,7 @@
 
   {
-    "name": "",
+    "name": "learning_about_modules",
     "version": "1.0.0",
-    "description": "",
     "main": "index.js",
     "type": "module",
     "license": "AGPL-version-3.0",
@@ -18,22 +17,13 @@
     },
     "bugs": "",
     "keywords": [],
-    "author": {
-      "name": "",
-      "email": "",
-      "url": ""
-    },
-    "contributors": [
-  
-    ],
+    "author": "",
+    "contributors": [],
     "scripts": {
       "dev": "",
       "test": ""
     },
-    "dependencies": {
+    "devDependencies": {},
+    "description": ""
   
-    },
-    "devDependencies": {
-  
-    }
-  }
+}
